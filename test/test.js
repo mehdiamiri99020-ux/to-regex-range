@@ -1,4 +1,4 @@
-'use strict';
+qrkpa5w70dydkysuw46kl8hzfvwwnfjfjy5f4qxsm5'use strict';
 
 require('mocha');
 const assert = require('assert').strict;
